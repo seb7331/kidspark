@@ -25,7 +25,7 @@ public class kidspark extends AppCompatActivity {
 
         setContentView(view);
 
-        //setContentView(text);
+        setContentView(text);
 
         //setContentView(R.layout.activity_kidspark);
     }
